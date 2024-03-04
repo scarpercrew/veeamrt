@@ -1,0 +1,8 @@
+{
+    "name": "eastman",
+    "namespace": "Theme\\eastman\\",
+    "description": "eastman - Laravel Ecommerce System",
+    "author": "Eastman Online",
+    "version": "1.16.0",
+    "required_plugins": []
+}
